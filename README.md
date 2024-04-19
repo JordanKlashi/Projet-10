@@ -12,12 +12,11 @@
 
     Front-end: React
     Outils de Débogage: React Developer Tools
-    Tests Unitaires: [Insérer ici les outils ou frameworks de tests utilisés]
-    Autres: [Insérer d'autres technologies ou outils utilisés pour le débogage]
+    Tests Unitaires: Plusieurs test effectué en javascript
 
 <h3>Installation</h3>
 
-    Cloner le dépôt : git clone [lien vers votre dépôt]
+    Cloner le dépôt : git clone
     Installer les dépendances : npm install
     Démarrer l'application : npm start
 
